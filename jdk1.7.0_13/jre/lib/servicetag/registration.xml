@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>Robin-PC</hostname>
+      <hostId/>
+      <osName>Windows 7</osName>
+      <osVersion>6.1</osVersion>
+      <osArchitecture>amd64</osArchitecture>
+      <systemModel>4179GVC</systemModel>
+      <systemManufacturer>LENOVO</systemManufacturer>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber>PBDWZD4</serialNumber>
+   </environment>
+   <registry urn="urn:st:9e179651-4f22-4203-9fab-456205891301" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:d28a9034-a17d-4a5e-a69c-82432ca4edfd</instance_urn>
+         <product_name>Java SE 7 Development Kit</product_name>
+         <product_version>1.7.0_13</product_version>
+         <product_urn>JSEZ9-007-ZZZZ</product_urn>
+         <product_parent_urn>urn:uuid:dc1704fe-264f-11dc-9482-080020a9ed93</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 7 (Java SE 7)</product_parent>
+         <product_defined_inst_id>id=1.7.0_13-b20 amd64,dir=C:\Program Files\Java\jdk1.7.0_13\jre</product_defined_inst_id>
+         <product_vendor>Oracle Corporation</product_vendor>
+         <platform_arch>amd64</platform_arch>
+         <timestamp>2013-02-05 03:08:19 GMT</timestamp>
+         <container>global</container>
+         <source>Windows JDK i586 installer</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
